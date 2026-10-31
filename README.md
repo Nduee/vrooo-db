@@ -14,7 +14,6 @@ Basis data ini dirancang untuk:
 * Dapat diuji coba secara langsung di lingkungan laptop pengembang (*development machine*).
 * Menangani pencatatan deteksi kendaraan real-time dari model Computer Vision (YOLO/OpenCV).
 * Mendukung fitur interaktif simulasi **Web Playground** (membandingkan efisiensi waktu tunggu metode adaptif vs konvensional).
-* Memenuhi capaian mata kuliah **Kecerdasan Bisnis (CPL-7)** melalui tabel rekapitulasi mingguan (*Data Mart / OLAP*).
 
 ---
 
